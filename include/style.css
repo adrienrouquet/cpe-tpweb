@@ -1,0 +1,156 @@
+
+body
+{
+	background: rgb(10,0,0);
+	z-index: -1;
+}
+
+header
+{
+	
+}
+
+section
+{
+
+}
+
+nav
+{
+
+}
+
+footer
+{
+
+}
+
+a
+{
+	text-decoration: none;
+}
+
+li
+{
+	list-style-image: url('../img/li.png');
+}
+
+li a
+{
+	color: rgb(255,200,200);
+}
+
+li a:hover
+{
+	color: rgb(255,255,255);
+}
+
+/* Main table */
+.tbl_main 
+{
+	width: 1024px;
+}
+
+.tbl_header
+{
+	width: 1024px;
+	height: 200px;
+	background-image: 	url('../img/banner.png');
+	background-repeat: 	no-repeat;
+}
+
+.tbl_nav
+{
+	width: 230px;
+	vertical-align: top;
+}
+
+.tbl_menutop
+{
+	height:30px;
+	background-image: url('../img/menutop.png');
+	background-repeat: repeat-x;
+	/* table border radius */
+	-webkit-border-top-right-radius: 10px; 
+	-moz-border-top-right-radius: 10px;
+	border-top-right-radius: 10px;
+	-webkit-border-top-left-radius: 10px; 
+	-moz-border-top-left-radius: 10px;
+	border-top-left-radius: 10px;
+
+}
+
+.tbl_menubody
+{
+	background: rgb(20,20,20);
+}
+
+.tbl_menubtm
+{
+	height:30px;
+	background-image: url('../img/menubtm.png');
+	background-repeat: repeat-x;
+	/* table border radius */
+	-webkit-border-bottom-right-radius: 10px; 
+	-moz-border-bottom-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	-webkit-border-bottom-left-radius: 10px; 
+	-moz-border-bottom-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+
+}
+
+.tbl_aside
+{
+	width: 194px;
+	vertical-align: top;
+	color: rgb(255, 200, 200);
+}
+
+
+
+.tbl_section
+{
+	width: 600px;
+}
+
+.tbl_sectiontop
+{
+	height:30px;
+	background-image: url('../img/sectiontop.png');
+	background-repeat: repeat-x;
+	/* table border radius */
+	-webkit-border-top-right-radius: 10px; 
+	-moz-border-top-right-radius: 10px;
+	border-top-right-radius: 10px;
+	-webkit-border-top-left-radius: 10px; 
+	-moz-border-top-left-radius: 10px;
+	border-top-left-radius: 10px;
+
+}
+
+.tbl_sectionbody
+{
+	background: rgb(255,255,255);
+}
+
+.tbl_sectionbtm
+{
+	height:30px;
+	background-image: url('../img/sectionbtm.png');
+	background-repeat: repeat-x;
+	/* table border radius */
+	-webkit-border-bottom-right-radius: 10px; 
+	-moz-border-bottom-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	-webkit-border-bottom-left-radius: 10px; 
+	-moz-border-bottom-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+
+}
+
+.tbl_footer
+{
+	text-align: center;
+	color: rgb(255, 200, 200);
+}

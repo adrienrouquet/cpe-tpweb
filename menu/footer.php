@@ -1,0 +1,1 @@
+<hr /><br>	Website created and designed by Souple Corp &#153 &#174 &#169 &#8471 &#9786</br><br>	<i>If you're blond and cute: 06 58 83 34 18</i></br>
